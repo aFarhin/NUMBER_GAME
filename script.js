@@ -85,7 +85,7 @@ document.querySelector('.again').addEventListener('click', function () {
     secretNumber = Math.floor(Math.random() * 20) + 1;
     displayMessage('Start guessing...');
     highScoreStyle(highscore, 'black', '900')
-
+     scoreStyle(0, 'black2', '900',)
     document.querySelector('.number').textContent = '?';
 
     numberStyle('?')
