@@ -9,7 +9,7 @@ used skill :
 2. DOM
 3. Object Method
 4. if-else Condition
-5. HTMl
+5. HTML
 6. CSS
 7. Math methods
 
